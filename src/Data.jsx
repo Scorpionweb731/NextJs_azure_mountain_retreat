@@ -1,7 +1,7 @@
 
 //***********Header****************
 export const HeaderLinks = ['Home', 'Rooms','Restaurant', 'About','Contact']        
-export const Logo = 'Azure Retreat'
+export const Logo = 'Azure Retreat ss'
 
 //**************footer************
 export const FooterLinks = {
